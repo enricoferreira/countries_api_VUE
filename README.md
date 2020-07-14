@@ -2,23 +2,11 @@
 
 ## Project setup
 ```
-npm install
+Abra o terminal no diretório raiz onde se encontra a pasta package.json e digite o comando -> <strong>npm install</strong>
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+Para compilar o projeto, ainda no diretório raiz onde es encontra o arquivo package.json, digite o comando -><strong> npm run serve</strong>
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
